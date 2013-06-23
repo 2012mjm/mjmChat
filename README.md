@@ -20,6 +20,6 @@ $this->widget('MjmChat', array(
             )
 );
 
-DEMO: http://mjm3d.ir/other/yii/httpdocs
+DEMO: http://yii.mjm3d.ir
 
 You can change the extension of the partnership
